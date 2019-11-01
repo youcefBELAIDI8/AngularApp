@@ -12,5 +12,4 @@
 *Routing and navigation
 *Authentication authorization 
 *Deployment
-*Building real-time, severless applications with Firebase
-*  
+*Building real-time, severless applications with Firebase  
