@@ -1,7 +1,7 @@
 # AngularApp
 ## In this project I used :
-`
-+ Fundamentals of TypeScript
+
++ Fundamentals of `TypeScript`
 + Angular fundamentals
 + Displaying data and handling events
 + Components
@@ -13,5 +13,3 @@
 + Authentication authorization 
 + Deployment
 + Building real-time, severless applications with Firebase  
-
-`
